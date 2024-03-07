@@ -7,9 +7,11 @@
     font-style: normal;
     font-weight: normal;
     
-    
+ 
     }
-    
+    *{
+        border: blue 3px dashed;} 
+        
     body{
     background-color: rgb(0, 0, 0);
     color : rgb(0, 255, 4);
